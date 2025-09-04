@@ -20,6 +20,3 @@ dist
 *.njsproj
 *.sln
 *.sw?
-
-# pages config
-pages.json
