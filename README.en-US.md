@@ -40,8 +40,6 @@ Environment configuration Copy From [Vitesse-lite](https://github.com/antfu/vite
 
 - 📥 [APIs auto importing](https://github.com/antfu/unplugin-auto-import) - use Composition API and others directly
 
-- ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
-
 - 🦾 TypeScript, of course
 
 - 🔒︎ [Lock the pnpm package manager](https://pnpm.io/only-allow-pnpm)
@@ -69,10 +67,6 @@ But the applet side still has some APIs that are not supported even if it is com
 - [Iconify](https://iconify.design) - use icons from any icon sets [🔍Icônes](https://icones.netlify.app/)
 
 - [Pure CSS Icons via UnoCSS](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
-
-### Test Framework
-
-- [Vitest](https://github.com/vitest-dev/vitest) - Unit testing powered by Vite
 
 ### Plugins
 

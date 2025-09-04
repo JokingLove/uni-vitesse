@@ -40,8 +40,6 @@
 
 - 📥 [API 自动导入](https://github.com/Ares-Chang/uni-vitesse/tree/master/src/composables) - 直接使用 Composition API 等
 
-- ✅ 使用 [Vitest](https://vitest.dev/) 进行单元和组件测试
-
 - 🦾 TypeScript, 当然
 
 - 🔒︎ [锁 pnpm 包管理](https://pnpm.io/only-allow-pnpm)
@@ -69,10 +67,6 @@
 - [Iconify](https://iconify.design) - 使用任意的图标集，浏览：[🔍Icônes](https://icones.netlify.app/)
 
 - [UnoCSS 的纯 CSS 图标方案](https://github.com/antfu/unocss/tree/main/packages/preset-icons)
-
-### 测试框架
-
-- [Vitest](https://github.com/vitest-dev/vitest) - 由 Vite 支持的单元测试
 
 ### 插件
 
