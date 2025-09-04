@@ -62,7 +62,7 @@ export default defineConfig({
           'uni-use-router': ['useRoute', 'useRouter'],
         },
       ],
-      dts: true,
+      dts: 'src/auto-imports.d.ts',
       dirs: [
         './src/composables',
       ],
